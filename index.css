@@ -1,0 +1,87 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+​
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+​
+    header {
+        background-color: #5b2e38;
+        color: WhiteSmoke;
+        padding: 25px 25px 25px 100px;
+        font-family: helvetica, verdana, san-serif;
+        font-size: 20px;
+        display: block;
+        width: 790px;
+    }
+    h1 {
+      background-color: #5b2e38;
+      color: WhiteSmoke;
+      padding: 25px 25px 25px 100px;
+      font-family: helvetica, verdana, san-serif;
+      font-size: 50px;
+      display: block;
+      width: 790px;
+
+    }
+      h2 {
+        color: firebrick;
+        font-family: helvetica, verdana, san-serif;
+    }
+      h3 {
+        background-color: #5b2e38;
+        color: WhiteSmoke;
+        padding: 25px 25px 25px 100px;
+        font-family: helvetica, verdana, san-serif;
+        font-size: 20px;
+        display: block;
+        width: 790px;
+    }
+    nav {
+        line-height:2;
+        font-family: helvetica, verdana, san-serif;
+        background-color:#D8D8D8;
+        width:150px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+        padding-left: 20px;
+    }
+    a {
+        color: green;
+        text-decoration: none;
+    }
+    section {
+       width: 600px;
+        display: inline-block;
+        padding: 0px 0px 0px 30px;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        margin-left: 175px;
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+    img {
+      width:400px;
+      height: 400px;
+
+    }
